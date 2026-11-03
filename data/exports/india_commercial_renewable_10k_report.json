@@ -1,0 +1,46 @@
+{
+  "total_records_mined": 10000,
+  "category_distribution": {
+    "3-Star Hotel": 2491,
+    "4-Star Hotel": 1999,
+    "Marriage / Convention Hall": 1512,
+    "Resort": 1499,
+    "5-Star Hotel": 1499,
+    "Shopping Mall": 1000
+  },
+  "top_states": {
+    "Maharashtra": 1282,
+    "Uttar Pradesh": 1015,
+    "Tamil Nadu": 898,
+    "Kerala": 857,
+    "Karnataka": 828,
+    "Rajasthan": 690,
+    "Uttarakhand": 581,
+    "Himachal Pradesh": 387,
+    "Gujarat": 367,
+    "Madhya Pradesh": 365,
+    "Andhra Pradesh": 312,
+    "Assam": 230,
+    "Punjab": 223,
+    "Odisha": 198,
+    "Andaman and Nicobar Islands": 193
+  },
+  "geospatial_metrics": {
+    "total_building_footprint_sq_m": 226381712.08,
+    "total_building_footprint_sq_ft": 2436750110.54,
+    "average_building_size_sq_m": 22638.17
+  },
+  "renewable_energy_metrics": {
+    "solar_pv_installed_count": 2650,
+    "solar_pv_adoption_percentage": "26.5%",
+    "total_estimated_solar_panels": 13357673,
+    "wind_installed_or_captive_count": 270,
+    "wind_adoption_percentage": "2.7%"
+  },
+  "data_quality_completeness": {
+    "valid_coordinates_pct": 100.0,
+    "verified_business_name_pct": 100.0,
+    "phone_number_coverage_pct": 100.0,
+    "website_coverage_pct": 100.0
+  }
+}
